@@ -13,3 +13,7 @@ avatar = 'images/avatar.jpg'
 [services]
 [services.googleAnalytics]
 ID = 'G-80XRCBNSTD'
+
+[caches]
+[caches.images]
+ dir = ':cacheDir/images'
