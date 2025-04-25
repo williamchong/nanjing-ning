@@ -1,4 +1,15 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://nanjingning.com/'
+defaultContentLanguage = 'zh'
+languageCode = 'zh-Hant'
+title = '南京的那個寧'
 theme = 'dream'
+hasCJKLanguage = true
+
+[params]
+author = '南京的那個寧'
+description = '關於南京的生活拾趣'
+avatar = 'images/avatar.jpg'
+
+[services]
+[services.googleAnalytics]
+ID = 'G-80XRCBNSTD'
