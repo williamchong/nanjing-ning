@@ -3,7 +3,7 @@ title: 趣說南京美食之鹽水鴨
 date: 2024-07-31T00:00:00+08:00
 lastmod: 2024-07-31T00:00:00+08:00
 author: 南京的那個寧
-# avatar: /img/author.jpg
+avatar: /images/avatar.jpg
 authorlink: https://nanjingning.com
 cover: images/47d185e0-4edc-11ef-a649-6f224b8e067a.jpg
 images:
