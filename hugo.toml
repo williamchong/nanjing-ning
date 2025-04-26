@@ -7,8 +7,9 @@ hasCJKLanguage = true
 
 [params]
 author = '南京的那個寧'
-description = '關於南京的生活拾趣'
-avatar = 'images/avatar.jpg'
+description = '探索南京的美麗與文化，分享攝影、旅行、美食和生活感悟。關注我們，感受生命的詩意與溫暖。'
+avatar = '/images/avatar.jpg'
+images = ['/images/avatar.jpg']
 
 [services]
 [services.googleAnalytics]
@@ -16,4 +17,4 @@ ID = 'G-80XRCBNSTD'
 
 [caches]
 [caches.images]
- dir = ':cacheDir/images'
+dir = ':cacheDir/images'
