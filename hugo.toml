@@ -11,6 +11,11 @@ description = '探索南京的美麗與文化，分享攝影、旅行、美食�
 avatar = '/images/avatar.jpg'
 images = ['/images/avatar.jpg']
 
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+
 [services]
 [services.googleAnalytics]
 ID = 'G-80XRCBNSTD'
