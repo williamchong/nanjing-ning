@@ -16,11 +16,10 @@ images:
   - images/c08ec0b0-6598-11ef-87c3-af9d768529c6.jpg
   - images/f3ac7f10-6597-11ef-87c3-af9d768529c6.jpg
 categories:
-  - food
+  - 美食
 tags:
-  - food
-# nolastmod: true
-# draft: true
+  - 美食
+  - 趣說南京美食
 ---
 
 一個東西如果真的好吃，吃完之後必是連湯都喝的一乾二淨，到了南京，這好吃的東西就是鹽水鴨，喝的一乾二淨的是鴨血粉絲湯。都是因鴨而得，同本同源。

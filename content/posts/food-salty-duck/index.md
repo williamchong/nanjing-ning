@@ -18,11 +18,10 @@ images:
   - images/dab4fa40-4edc-11ef-a649-6f224b8e067a.jpg
   - images/ec87f740-4edc-11ef-a649-6f224b8e067a.jpg
 categories:
-  - food
+  - 美食
 tags:
-  - food
-# nolastmod: true
-# draft: true
+  - 美食
+  - 趣說南京美食
 ---
 
 為了表示南京人多麼愛吃鴨子，南京人竟編造出「沒有一隻鴨子能活著離開南京」的神奇故事，講了很多年後，南京人自已信了，外地來南京的遊客也信了。

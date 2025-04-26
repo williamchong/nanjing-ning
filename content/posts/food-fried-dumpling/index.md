@@ -17,9 +17,10 @@ images:
   - images/e4f41350-7610-11ef-8dd9-496c5f07c714.jpg
   - images/e4f536b0-760e-11ef-8dd9-496c5f07c714.jpg
 categories:
-  - food
+  - 美食
 tags:
-  - food
+  - 美食
+  - 趣說南京美食
 ---
 
 鍋貼從它的製作過程來講，簡單的理解為「生煎餃」可能更加通俗易懂。
