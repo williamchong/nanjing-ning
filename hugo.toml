@@ -1,6 +1,6 @@
 baseURL = 'https://nanjingning.com/'
 defaultContentLanguage = 'zh'
-languageCode = 'zh-Hant'
+locale = 'zh-Hant'
 title = '南京的那個寧'
 theme = 'dream'
 hasCJKLanguage = true
